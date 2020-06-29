@@ -10,7 +10,7 @@ I have generated registration_timestamp column from registration column to able 
 Then, I have aggregated based on userId, year, month, day
 After that finally, I have aggregated data based on only userId column and generated 2 month avg, sum, max, min columns 
 
-Read more here: 
+Read more here: https://medium.com/@dakcicek/capstone-sparkify-project-2763ea2b9aaa
 
 ### Results Summary
 
